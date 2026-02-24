@@ -62,8 +62,11 @@ CREATE TABLE students (
     course VARCHAR(100) NOT NULL,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+```sql
 
-Configuration
+---
+
+## Configuration
 
 Update your MySQL password inside:
 
