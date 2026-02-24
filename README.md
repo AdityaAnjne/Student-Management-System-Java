@@ -26,26 +26,6 @@ This project demonstrates CRUD operations, database integration, and Object-Orie
 
 ---
 
-##  Project Structure
-
-
-Student-Management-System-Java
-│
-├── src
-│ ├── Main.java
-│ ├── DBConnection.java
-│ ├── Student.java
-│ └── StudentDAO.java
-│
-├── lib
-│ └── mysql-connector-j-9.6.0.jar
-│
-├── .gitignore
-└── README.md
-
-
----
-
 ##  Database Setup
 
 Run the following SQL commands in MySQL:
